@@ -12,13 +12,13 @@ h2{
   font-size: 32px;
   font-weight: bold;
 }
-h3{
-  color: black;
-  font-size: 23px;
-}
 div.header{
   background-image: url(../images/the-flatiron-building.png);
   color: white;
+}
+h3{
+  color: black;
+  font-size: 23px;
 }
 ul {
   list-style-type: none;
@@ -32,4 +32,12 @@ a{
 }
 p{
   color: black;
+}
+div.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+p.copyright{
+  color: white;
+  font-size: 11px;
 }
